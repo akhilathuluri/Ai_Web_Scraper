@@ -96,6 +96,11 @@ The following environment variables are required:
 - `SBR_WEBDRIVER`: Your Scraping Browser API endpoint URL
 
 
+### Output
+![image](https://github.com/user-attachments/assets/b356475a-ba42-4424-8d53-69e48c4e42da)
+
+
+
 ## 🔑 Getting Your SBR_WEBDRIVER
 
 #### Step By Step Pdf Guide - [MagicHow - Personal.pdf](https://github.com/user-attachments/files/17263924/MagicHow.-.Personal.pdf)
