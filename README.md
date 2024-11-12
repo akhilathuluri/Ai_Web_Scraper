@@ -5,7 +5,7 @@ An intelligent web scraping tool that combines Streamlit, Selenium, and LangChai
 ## 🚀 Features
 
 - Web scraping with CAPTCHA handling
-- AI-powered content parsing using LLaMA model
+- AI-powered content parsing using gemma2 model
 - User-friendly Streamlit interface
 - Content cleaning and processing
 - Chunked processing for large content
