@@ -202,7 +202,7 @@ Common issues and solutions:
 
 1. **Ollama Connection Error**
    - Ensure Ollama is installed and running
-   - Verify the LLaMA model is downloaded
+   - Verify the gemma2 model is downloaded
 
 2. **Scraping Browser Connection Failed**
    - Check your API endpoint in the `.env` file
