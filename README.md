@@ -2,6 +2,7 @@
 
 An intelligent web scraping tool that combines Streamlit, Selenium, and LangChain to scrape websites and extract specific information using AI. This tool can handle websites protected by CAPTCHA and process large amounts of content efficiently.
 
+
 ![ai webscraper](https://github.com/user-attachments/assets/f59c3e25-daac-4a3e-900d-4d4bdf0bdee7)
 
 ## 🚀 Features
