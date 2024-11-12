@@ -14,7 +14,7 @@ An intelligent web scraping tool that combines Streamlit, Selenium, and LangChai
 ## 📋 Prerequisites
 
 - Python 3.8+
-- [Ollama](https://ollama.ai/) installed with LLaMA model
+- [Ollama](https://ollama.ai/) installed with gemma2 model
 - Chrome/Chromium browser
 - Scraping Browser API access
 
